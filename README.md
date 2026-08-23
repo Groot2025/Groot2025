@@ -2,7 +2,7 @@
 - 👀 I’m interested in Drones, Robotics and Animetronics
 - 🌱 I’m currently learning ROS,RTOS and Ardupilot
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 Reach me out on LinkdIn: www.linkedin.com/in/christin-thomas-7325a0232
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am jack of all trades 
 
