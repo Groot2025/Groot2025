@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Groot2025
 - 👀 I’m interested in Drones, Robotics and Animetronics
 - 🌱 I’m currently learning ROS,RTOS and Ardupilot
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on: Swarm Drones, Radio Systems, Custom Drone builds 
 - 📫 Reach me out on LinkdIn: www.linkedin.com/in/christin-thomas-7325a0232
-- 😄 Pronouns: ...
+- 😄 Pronouns: Systems/Engineer
 - ⚡ Fun fact: I am jack of all trades 
 
 <!---
