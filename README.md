@@ -10,7 +10,7 @@
 
 ### <img src="https://media.giphy.com/media/WgPbGWaSUfxRsy3I6O/giphy.gif" width="30"> About Me
 
-- **Currently:** Systems Engineer @ Airbotix Technology
+- **Currently:** Sr. Systems Engineer @ Airbotix Technology
 - **Previously:** Embedded HW/SW Engineer @ Neosky (Rattan India)
 - **Education:** B.Tech from IIMT College of Engineering
 - **5+ years** of experience in embedded systems, drone technology & AI/ML
