@@ -16,7 +16,7 @@
 - **5+ years** of experience in embedded systems, drone technology & AI/ML
 - Built swarm systems for drone shows conducted across India
 - Designed Mil-Std surveillance payloads for Army Aerostats
-- First Indian company to achieve 30-minute drone shows (Airbotix)
+- Designed drone show drone with 30 minutes endurance
 - 20 AI/ML projects at IUAC (Nuclear Research Center)
 
 ---
