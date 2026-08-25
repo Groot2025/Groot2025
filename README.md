@@ -10,13 +10,13 @@
 
 ### <img src="https://media.giphy.com/media/WgPbGWaSUfxRsy3I6O/giphy.gif" width="30"> About Me
 
-- **Currently:** Sr. Systems Engineer @ Airbotix Technology
+- **Currently:** Systems Engineer @ Airbotix Technology
 - **Previously:** Embedded HW/SW Engineer @ Neosky (Rattan India)
 - **Education:** B.Tech from IIMT College of Engineering
 - **5+ years** of experience in embedded systems, drone technology & AI/ML
 - Built swarm systems for drone shows conducted across India
 - Designed Mil-Std surveillance payloads for Army Aerostats
-- Designed drone show drone with 30 minutes endurance
+- First Indian company to achieve 30-minute drone shows (Airbotix)
 - 20 AI/ML projects at IUAC (Nuclear Research Center)
 
 ---
@@ -40,7 +40,7 @@
 
 ### <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30"> Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christinthoma2025@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christinthomas2025@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christin-thomas-7325a0232)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=terminal&logoColor=white)](https://groot2025.github.io/PORTFOLIO/)
 
