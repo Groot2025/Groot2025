@@ -38,12 +38,6 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/L1Rif7vFiSxkN21yC4/giphy.gif" width="30"> Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Groot2025&bg_color=0D1117&color=38D252&point=FEFEFE&line=FC0000&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30"> Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christinthoma2025@gmail.com)
