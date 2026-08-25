@@ -3,8 +3,6 @@
 <h3 align="center">Embedded Systems Engineer | Drone Engineer | AI/ML Researcher</h3>
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/stars?logo=star&color=559606&labelColor=488207&label=Stars&style=for-the-badge&query=stars" alt="Total stars on GitHub">
-  <img src="https://custom-icon-badges.demolab.com/badge/followers?logo=repo-forked&color=blue&labelColor=1FcdeEB&label=Forks&style=for-the-badge&query=forks" alt="Total forks on GitHub">
   <img src="https://img.shields.io/github/followers/Groot2025?color=236ad3&label=Follow&logo=github&style=for-the-badge" alt="Follow me on Github">
 </p>
 
