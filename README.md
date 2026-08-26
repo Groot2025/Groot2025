@@ -12,7 +12,6 @@
 
 - **Currently:** Systems Engineer @ Airbotix Technology
 - **Previously:** Embedded HW/SW Engineer @ Neosky (Rattan India)
-- **Education:** B.Tech from IIMT College of Engineering
 - **5+ years** of experience in embedded systems, drone technology & AI/ML
 - Built swarm systems for drone shows conducted across India
 - Designed Mil-Std surveillance payloads for Army Aerostats
