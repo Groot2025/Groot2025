@@ -16,7 +16,7 @@
 - Built swarm systems for drone shows conducted across India
 - Designed Mil-Std surveillance payloads for Army Aerostats
 - First Indian company to achieve 30-minute drone shows (Airbotix)
-- 20 AI/ML projects at IUAC (Nuclear Research Center)
+- 20+ AI/ML projects at IUAC (Nuclear Research Center)
 
 ---
 
